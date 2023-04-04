@@ -1,4 +1,4 @@
-# Desafio do Explorer - [SPA-Universe](https://duckduckgo.com).
+# Desafio do Explorer - [SPA-Universe]
 ## Este repositório foi criado como parte do Desafio do Explorer da Rocketseat. O projeto foi desenvolvido com o objetivo de aplicar vários conceitos importantes para o desenvolvimento de aplicações web modernas.
 
 Conceitos Aplicados
